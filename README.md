@@ -7,3 +7,5 @@ Feature 3.
 Feature XYZ.
 
 Feature XYZAABB.
+
+Test with protected branch (cant push to master).
